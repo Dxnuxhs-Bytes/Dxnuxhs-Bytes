@@ -89,9 +89,11 @@ text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
       <text x="210" y="424" text-anchor="middle" font-size="40" font-weight="bold" fill="url(#nameg2)" opacity=".85">RD</text>
 
       <!-- name: curvy cursive signature along an arc -->
-      <text class="namefont namedraw" font-size="34" font-weight="700" fill="url(#nameg2)" stroke="url(#nameg2)" stroke-width="0.6" filter="url(#glow2)">
+      <!-- <text class="namefont namedraw" font-size="34" font-weight="700" fill="url(#nameg2)" stroke="url(#nameg2)" stroke-width="0.6" filter="url(#glow2)">
         <textPath href="#namecurve" startOffset="50%" text-anchor="middle">R Danush Kumar</textPath>
+        <text class="namefont namedraw" x="210" y="505" text-anchor="middle" font-size="32" font-weight="700" fill="url(#nameg2)" stroke="url(#nameg2)" stroke-width="0.6" filter="url(#glow2)">R Danush Kumar</text> -->
         <text class="namefont namedraw" x="210" y="505" text-anchor="middle" font-size="32" font-weight="700" fill="url(#nameg2)" stroke="url(#nameg2)" stroke-width="0.6" filter="url(#glow2)">R Danush Kumar</text>
+
       </text>
 
       <text x="210" y="540" text-anchor="middle" font-size="11" fill="#f0abfc" font-weight="bold" letter-spacing="2.5">FRONTEND DEVELOPER</text>
