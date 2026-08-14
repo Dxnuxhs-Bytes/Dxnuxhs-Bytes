@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1280 740" width="1280" height="740" role="img" aria-label="Megha Mittal - Frontend Developer">
-<title>Megha Mittal — Frontend Developer</title>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1280 740" width="1280" height="740" role="img" aria-label="R Danush Kumar - Frontend Developer">
+<title>R Danush Kumar — Frontend Developer</title>
 <defs>
 <style type="text/css"><![CDATA[
 text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
@@ -104,7 +104,7 @@ text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
 
 <!-- ================= LEFT: CONTENT ================= -->
 <!-- Terminal prompt -->
-<text clip-path="url(#cPrompt)" x="48" y="69" font-size="14"><tspan fill="#4ade80" font-weight="bold">megha@frontend-developer</tspan><tspan fill="#8b949e">:~$ </tspan><tspan fill="#e6edf3">cat </tspan><tspan fill="#e879f9">README.md</tspan></text>
+<text clip-path="url(#cPrompt)" x="48" y="69" font-size="14"><tspan fill="#4ade80" font-weight="bold">Danush@frontend-developer</tspan><tspan fill="#8b949e">:~$ </tspan><tspan fill="#e6edf3">cat </tspan><tspan fill="#e879f9">README.md</tspan></text>
 <rect x="454" y="56" width="8" height="16" fill="#4ade80" opacity="0"><animate attributeName="opacity" values="1;0" dur="1s" repeatCount="indefinite" begin="1.35s"/></rect>
 
 <!-- Hi, I'm -->
@@ -147,9 +147,9 @@ text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
 <g class="pill" style="animation:fadeIn .3s ease 4.8s forwards"><rect x="48" y="388" width="76" height="26" rx="13" fill="rgba(227,79,38,.13)" stroke="#e34f26" stroke-width="1"/><text x="86" y="405" text-anchor="middle" font-size="12" fill="#ff8a65" font-weight="bold">HTML</text></g>
 <g class="pill" style="animation:fadeIn .3s ease 4.9s forwards"><rect x="132" y="388" width="70" height="26" rx="13" fill="rgba(38,119,189,.15)" stroke="#38bdf8" stroke-width="1"/><text x="167" y="405" text-anchor="middle" font-size="12" fill="#7dd3fc" font-weight="bold">CSS</text></g>
 <g class="pill" style="animation:fadeIn .3s ease 5s forwards"><rect x="210" y="388" width="110" height="26" rx="13" fill="rgba(247,223,30,.10)" stroke="#f7df1e" stroke-width="1"/><text x="265" y="405" text-anchor="middle" font-size="12" fill="#fde047" font-weight="bold">JavaScript</text></g>
-<g class="pill" style="animation:fadeIn .3s ease 5.1s forwards"><rect x="328" y="388" width="80" height="26" rx="13" fill="rgba(97,218,251,.10)" stroke="#61dafb" stroke-width="1"/><text x="368" y="405" text-anchor="middle" font-size="12" fill="#67e8f9" font-weight="bold">React</text></g>
-<g class="pill" style="animation:fadeIn .3s ease 5.2s forwards"><rect x="48" y="422" width="64" height="26" rx="13" fill="rgba(0,118,206,.14)" stroke="#4a9eda" stroke-width="1"/><text x="80" y="439" text-anchor="middle" font-size="12" fill="#93c5fd" font-weight="bold">SAP</text></g>
-<g class="pill" style="animation:fadeIn .3s ease 5.3s forwards"><rect x="120" y="422" width="64" height="26" rx="13" fill="rgba(139,92,246,.14)" stroke="#8b5cf6" stroke-width="1"/><text x="152" y="439" text-anchor="middle" font-size="12" fill="#c4b5fd" font-weight="bold">SQL</text></g>
+<g class="pill" style="animation:fadeIn .3s ease 5.1s forwards"><rect x="328" y="388" width="80" height="26" rx="13" fill="rgba(97,218,251,.10)" stroke="#61dafb" stroke-width="1"/><text x="368" y="405" text-anchor="middle" font-size="12" fill="#67e8f9" font-weight="bold">TypeScript</text></g>
+<g class="pill" style="animation:fadeIn .3s ease 5.2s forwards"><rect x="48" y="422" width="64" height="26" rx="13" fill="rgba(0,118,206,.14)" stroke="#4a9eda" stroke-width="1"/><text x="80" y="439" text-anchor="middle" font-size="12" fill="#93c5fd" font-weight="bold">TailWind</text></g>
+<g class="pill" style="animation:fadeIn .3s ease 5.3s forwards"><rect x="120" y="422" width="64" height="26" rx="13" fill="rgba(139,92,246,.14)" stroke="#8b5cf6" stroke-width="1"/><text x="152" y="439" text-anchor="middle" font-size="12" fill="#c4b5fd" font-weight="bold">MongoDB</text></g>
 <g class="pill" style="animation:fadeIn .3s ease 5.4s forwards"><rect x="192" y="422" width="130" height="26" rx="13" fill="rgba(255,126,182,.10)" stroke="#ff7eb6" stroke-width="1"/><text x="257" y="439" text-anchor="middle" font-size="12" fill="#f9a8d4" font-weight="bold">Responsive UI</text></g>
 
 <!-- About Me -->
@@ -169,10 +169,10 @@ text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
   <text x="398" y="612" text-anchor="middle" font-size="11.5" fill="#9aa4b2">⭐ Stars</text>
   <text x="538" y="612" text-anchor="middle" font-size="11.5" fill="#9aa4b2">👥 Followers</text>
 </g>
-<text class="st" x="118" y="640" text-anchor="middle" font-size="18" font-weight="bold" fill="#ff7eb6" filter="url(#glow)" style="animation:fadeIn .4s ease 6.6s forwards">8+</text>
-<text class="st" x="258" y="640" text-anchor="middle" font-size="18" font-weight="bold" fill="#e879f9" filter="url(#glow)" style="animation:fadeIn .4s ease 6.75s forwards">500+</text>
-<text class="st" x="398" y="640" text-anchor="middle" font-size="18" font-weight="bold" fill="#fde047" filter="url(#glow)" style="animation:fadeIn .4s ease 6.9s forwards">50+</text>
-<text class="st" x="538" y="640" text-anchor="middle" font-size="18" font-weight="bold" fill="#c084fc" filter="url(#glow)" style="animation:fadeIn .4s ease 7.05s forwards">25+</text>
+<text class="st" x="118" y="640" text-anchor="middle" font-size="18" font-weight="bold" fill="#ff7eb6" filter="url(#glow)" style="animation:fadeIn .4s ease 6.6s forwards">4+</text>
+<text class="st" x="258" y="640" text-anchor="middle" font-size="18" font-weight="bold" fill="#e879f9" filter="url(#glow)" style="animation:fadeIn .4s ease 6.75s forwards">100+</text>
+<text class="st" x="398" y="640" text-anchor="middle" font-size="18" font-weight="bold" fill="#fde047" filter="url(#glow)" style="animation:fadeIn .4s ease 6.9s forwards">0+</text>
+<text class="st" x="538" y="640" text-anchor="middle" font-size="18" font-weight="bold" fill="#c084fc" filter="url(#glow)" style="animation:fadeIn .4s ease 7.05s forwards">0+</text>
 
 <!-- ================= RIGHT: ILLUSTRATION ================= -->
 <circle cx="1000" cy="440" r="270" fill="url(#girlGlow)"><animate attributeName="r" values="270;292;270" dur="5s" repeatCount="indefinite"/></circle>
@@ -230,11 +230,11 @@ text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
 </line>
 <g class="soc" style="animation:fadeIn .5s ease 7.4s forwards">
   <g transform="translate(48,692) scale(.8)"><path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z" fill="#c9d1d9"/></g>
-  <text x="74" y="707" font-size="12.5" fill="#c9d1d9">Meghamittal0920</text>
+  <text x="74" y="707" font-size="12.5" fill="#c9d1d9">Dxnuxhs-Bytes</text>
   <g transform="translate(214,693) scale(.8)"><rect x="1" y="3" width="22" height="17" rx="3.5" fill="none" stroke="#ff7eb6" stroke-width="2"/><path d="M2.5 5.5 12 13l9.5-7.5" fill="none" stroke="#ff7eb6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g>
-  <text x="240" y="707" font-size="12.5" fill="#c9d1d9">meghamittal563@gmail.com</text>
+  <text x="240" y="707" font-size="12.5" fill="#c9d1d9">danush2684@gmail.com</text>
   <g transform="translate(452,692) scale(.8)"><rect width="24" height="24" rx="6" fill="none" stroke="#e879f9" stroke-width="2"/><circle cx="12" cy="12" r="4.6" fill="none" stroke="#e879f9" stroke-width="2"/><circle cx="18.2" cy="5.8" r="1.5" fill="#e879f9"/></g>
-  <text x="478" y="707" font-size="12.5" fill="#c9d1d9">meghamittal92000</text>
+  <text x="478" y="707" font-size="12.5" fill="#c9d1d9">_dxnuxsh_</text>
 </g>
 <text class="soc" x="1232" y="707" text-anchor="end" font-size="13" style="animation:fadeIn .5s ease 7.6s forwards"><tspan fill="#8b949e">“</tspan><tspan fill="#f0abfc">Code is my art, Logic is my superpower.</tspan><tspan fill="#8b949e">” </tspan><tspan fill="#ff7eb6">❤</tspan></text>
 <text class="soc" x="700" y="707" font-size="11.5" style="animation:fadeIn .5s ease 7.5s forwards"><tspan fill="#28c840">●</tspan><tspan fill="#8b949e"> open to collaborate</tspan></text>
