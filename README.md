@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+p align="center">
+  <img src="./id.svg" alt="R Danush Kumar Developer ID" width="420">
+</p>
+<p align="center">
+  <img src="./lang.svg" alt="Top language" width="auto">
+</p>
+<p align="center">
+  <img src="./banner.svg" alt="Banner" width="auto">
+</p>
