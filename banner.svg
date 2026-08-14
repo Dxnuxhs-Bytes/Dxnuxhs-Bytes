@@ -103,36 +103,243 @@ text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
 <!-- Hi, I'm -->
 <text clip-path="url(#cHi)" x="48" y="114" font-size="24" font-weight="bold" fill="#e6edf3">Hi, I'm 👋</text>
 
-<!-- Name: R Danush Kumar (unique layered italic display type) -->
-<!-- soft drop shadow layer for depth -->
- <g fill="#000" opacity=".35" font-size="60" font-weight="900" font-style="italic" transform="translate(4,206) skewX(-8)">
-  <text class="ltr" x="48" y="0" style="animation-delay:1.55s">R</text>
-  <text class="ltr" x="91" y="0" style="animation-delay:1.62s">D</text>
-  <text class="ltr" x="137" y="0" style="animation-delay:1.69s">a</text>
-  <text class="ltr" x="171" y="0" style="animation-delay:1.76s">n</text>
-  <text class="ltr" x="207" y="0" style="animation-delay:1.83s">u</text>
-  <text class="ltr" x="243" y="0" style="animation-delay:1.90s">s</text>
-  <text class="ltr" x="272" y="0" style="animation-delay:1.97s">h</text>
-  <text class="ltr" x="323" y="0" style="animation-delay:2.04s">K</text>
-  <text class="ltr" x="366" y="0" style="animation-delay:2.11s">u</text>
-  <text class="ltr" x="402" y="0" style="animation-delay:2.18s">m</text>
-  <text class="ltr" x="454" y="0" style="animation-delay:2.25s">a</text>
-  <text class="ltr" x="488" y="0" style="animation-delay:2.32s">r</text>
-</g> 
-main gradient layer, italic skew for a dynamic logotype feel -->
- <g fill="url(#nameg)" filter="url(#glow)" font-size="60" font-weight="900" font-style="italic" letter-spacing="0.5" transform="translate(0,200) skewX(-8)">
-  <text class="ltr" x="48" y="0" style="animation-delay:1.55s">R</text>
-  <text class="ltr" x="91" y="0" style="animation-delay:1.62s">D</text>
-  <text class="ltr" x="137" y="0" style="animation-delay:1.69s">a</text>
-  <text class="ltr" x="171" y="0" style="animation-delay:1.76s">n</text>
-  <text class="ltr" x="207" y="0" style="animation-delay:1.83s">u</text>
-  <text class="ltr" x="243" y="0" style="animation-delay:1.90s">s</text>
-  <text class="ltr" x="272" y="0" style="animation-delay:1.97s">h</text>
-  <text class="ltr" x="323" y="0" style="animation-delay:2.04s">K</text>
-  <text class="ltr" x="366" y="0" style="animation-delay:2.11s">u</text>
-  <text class="ltr" x="402" y="0" style="animation-delay:2.18s">m</text>
-  <text class="ltr" x="454" y="0" style="animation-delay:2.25s">a</text>
-  <text class="ltr" x="488" y="0" style="animation-delay:2.32s">r</text>
+<!-- =========================================================
+     NAME: R DANUSH KUMAR
+     Path-based animated lettering
+     Adapted from the reference technique
+     ========================================================= -->
+
+<!-- Soft shadow -->
+<g
+  transform="translate(48,196)"
+  fill="#000000"
+  opacity=".35"
+  filter="url(#glow)"
+>
+  <g class="ltr" style="animation-delay:1.60s">
+    <text
+      x="0"
+      y="0"
+      font-size="54"
+      font-weight="900"
+      font-style="italic"
+    >R</text>
+  </g>
+
+  <g class="ltr" style="animation-delay:1.69s">
+    <text
+      x="34"
+      y="0"
+      font-size="54"
+      font-weight="900"
+      font-style="italic"
+    >D</text>
+  </g>
+
+  <g class="ltr" style="animation-delay:1.78s">
+    <text
+      x="72"
+      y="0"
+      font-size="54"
+      font-weight="900"
+      font-style="italic"
+    >a</text>
+  </g>
+
+  <g class="ltr" style="animation-delay:1.87s">
+    <text
+      x="104"
+      y="0"
+      font-size="54"
+      font-weight="900"
+      font-style="italic"
+    >n</text>
+  </g>
+
+  <g class="ltr" style="animation-delay:1.96s">
+    <text
+      x="138"
+      y="0"
+      font-size="54"
+      font-weight="900"
+      font-style="italic"
+    >u</text>
+  </g>
+
+  <g class="ltr" style="animation-delay:2.05s">
+    <text
+      x="172"
+      y="0"
+      font-size="54"
+      font-weight="900"
+      font-style="italic"
+    >s</text>
+  </g>
+
+  <g class="ltr" style="animation-delay:2.14s">
+    <text
+      x="202"
+      y="0"
+      font-size="54"
+      font-weight="900"
+      font-style="italic"
+    >h</text>
+  </g>
+
+  <g class="ltr" style="animation-delay:2.23s">
+    <text
+      x="248"
+      y="0"
+      font-size="54"
+      font-weight="900"
+      font-style="italic"
+    >K</text>
+  </g>
+
+  <g class="ltr" style="animation-delay:2.32s">
+    <text
+      x="286"
+      y="0"
+      font-size="54"
+      font-weight="900"
+      font-style="italic"
+    >u</text>
+  </g>
+
+  <g class="ltr" style="animation-delay:2.41s">
+    <text
+      x="320"
+      y="0"
+      font-size="54"
+      font-weight="900"
+      font-style="italic"
+    >m</text>
+  </g>
+
+  <g class="ltr" style="animation-delay:2.50s">
+    <text
+      x="370"
+      y="0"
+      font-size="54"
+      font-weight="900"
+      font-style="italic"
+    >a</text>
+  </g>
+
+  <g class="ltr" style="animation-delay:2.59s">
+    <text
+      x="402"
+      y="0"
+      font-size="54"
+      font-weight="900"
+      font-style="italic"
+    >r</text>
+  </g>
+</g>
+
+<!-- Main animated gradient name -->
+<g
+  transform="translate(48,196)"
+  fill="url(#nameg)"
+  filter="url(#glow)"
+  font-size="54"
+  font-weight="900"
+  font-style="italic"
+>
+  <g class="ltr" style="animation-delay:1.60s">
+    <text x="0" y="0">R</text>
+  </g>
+
+  <g class="ltr" style="animation-delay:1.69s">
+    <text x="34" y="0">D</text>
+  </g>
+
+  <g class="ltr" style="animation-delay:1.78s">
+    <text x="72" y="0">a</text>
+  </g>
+
+  <g class="ltr" style="animation-delay:1.87s">
+    <text x="104" y="0">n</text>
+  </g>
+
+  <g class="ltr" style="animation-delay:1.96s">
+    <text x="138" y="0">u</text>
+  </g>
+
+  <g class="ltr" style="animation-delay:2.05s">
+    <text x="172" y="0">s</text>
+  </g>
+
+  <g class="ltr" style="animation-delay:2.14s">
+    <text x="202" y="0">h</text>
+  </g>
+
+  <g class="ltr" style="animation-delay:2.23s">
+    <text x="248" y="0">K</text>
+  </g>
+
+  <g class="ltr" style="animation-delay:2.32s">
+    <text x="286" y="0">u</text>
+  </g>
+
+  <g class="ltr" style="animation-delay:2.41s">
+    <text x="320" y="0">m</text>
+  </g>
+
+  <g class="ltr" style="animation-delay:2.50s">
+    <text x="370" y="0">a</text>
+  </g>
+
+  <g class="ltr" style="animation-delay:2.59s">
+    <text x="402" y="0">r</text>
+  </g>
+</g>
+
+<!-- Animated underline -->
+<path
+  d="M48 210 Q250 228 455 208"
+  fill="none"
+  stroke="url(#nameg)"
+  stroke-width="3"
+  stroke-linecap="round"
+  filter="url(#glow)"
+  opacity="0"
+  stroke-dasharray="460"
+  stroke-dashoffset="460"
+>
+  <animate
+    attributeName="opacity"
+    from="0"
+    to=".9"
+    dur=".1s"
+    begin="2.75s"
+    fill="freeze"
+  />
+
+  <animate
+    attributeName="stroke-dashoffset"
+    from="460"
+    to="0"
+    dur=".7s"
+    begin="2.75s"
+    fill="freeze"
+  />
+</path>
+
+<!-- Heart accent -->
+<g
+  class="hb"
+  style="animation-delay:3s"
+>
+  <path
+    d="M500 168
+       c-5-11-21-9-21 4
+       0 9 12 16 21 22
+       9-6 21-13 21-22
+       0-13-16-15-21-4z"
+    fill="#f59e0b"
+    opacity=".95"
+  />
 </g>
 <!-- glowing underline swoosh -->
 <!-- <path d="M48 214 Q 280 232 540 210" fill="none" stroke="url(#nameg)" stroke-width="3.5" stroke-linecap="round" filter="url(#glow)" opacity="0" stroke-dasharray="520" stroke-dashoffset="520">
