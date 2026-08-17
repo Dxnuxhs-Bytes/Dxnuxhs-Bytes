@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-p align="center">
+<p align="center">
   <img src="./id.svg" alt="R Danush Kumar Developer ID" width="420">
 </p>
 <p align="center">
