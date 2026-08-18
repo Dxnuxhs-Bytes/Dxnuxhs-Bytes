@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
+  <img src="./banner.svg" alt="R Danush Kumar Developer ID" width="auto">
+</p>
+<p align="center">
   <img src="./id.svg" alt="R Danush Kumar Developer ID" width="420">
 </p>
 <p align="center">
